@@ -1,0 +1,226 @@
+@media only screen and (max-width: 600px) {
+    .menu-top-btn {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+    .job-research {
+        padding: 10px 0px;
+    }
+    .menu-nav div#navbarSupportedContent {
+        margin-bottom: 0px !important;
+    }
+    .hero-section {
+        min-height: 50vh;
+    }
+    .hero-container h3 {
+        font-size: 20px;
+    }
+    .hero-container h1 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .newsletter-container p {
+        font-size: 16px;
+    }
+    .newsletter-container h3 {
+        font-size: 30px;
+    }
+    .blog-container {
+        display: inline-block;
+        padding: 30px;
+        text-align: center;
+    }
+    .testimonial-container {
+        padding: 0px;
+    }
+    .card-content {
+        padding: 10px;
+    }
+    .feature-job .feature-btn {
+        margin: 0px 70px;
+    }
+    .hero-btn {
+        display: inline-block;
+    }
+    .hero-container .search-job,
+    .hero-container .find-talent {
+        margin: 20px;
+    }
+    .contact-info {
+        padding-top: 20px;
+    }
+    .logo {
+        text-align: center;
+    }
+    .top-social-icon,
+    .footer-social-icons {
+        display: inherit;
+        padding: 10px;
+        text-align: center;
+    }
+    div#navbarSupportedContent {
+        background: rgb(255, 255, 255);
+        padding-right: 20px;
+    }
+    .login-help {
+        justify-content: center;
+    }
+    .newsletter-form {
+        width: 100%;
+        margin: 0px;
+    }
+    footer {
+        padding-bottom: 30px;
+    }
+    .copyright-content {
+        display: inherit;
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 600px) {
+    .menu-top-btn {
+        margin-bottom: 30px;
+        display: flex;
+        justify-content: center;
+    }
+    .hero-container {
+        text-align: center;
+    }
+    .hero-section {
+        min-height: 50vh;
+    }
+    .newsletter-form {
+        width: 100%;
+        margin: 0px;
+    }
+    .job-research {
+        padding: 15px;
+    }
+    .job-btn {
+        margin: 0px 100px;
+    }
+    .newsletter-container p {
+        font-size: 16px;
+    }
+    .newsletter-container h3 {
+        font-size: 30px;
+    }
+    .menu-nav div#navbarSupportedContent {
+        margin-bottom: 0px !important;
+    }
+    .login-help {
+        justify-content: center;
+    }
+    .blog-container {
+        display: inline-block;
+        padding: 30px;
+        text-align: center;
+    }
+    .testimonial-container {
+        padding: 0px;
+    }
+    .card-content {
+    }
+    .feature-job .feature-btn {
+        margin: 0px 100px;
+    }
+    .hero-container .search-job,
+    .hero-container .find-talent {
+        margin: 10px;
+    }
+    .logo {
+        text-align: center;
+    }
+    .logo,
+    .contact-info,
+    .footer-social-icons,
+    .location-map {
+        padding-bottom: 15px;
+    }
+    .top-social-icon,
+    .footer-social-icons {
+        justify-content: center;
+        display: flex;
+    }
+    footer {
+        padding-bottom: 30px;
+    }
+    .copyright-content {
+        text-align: center;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .menu-top-btn {
+        display: flex;
+        margin-bottom: 30px;
+        justify-content: center;
+    }
+    .hero-section {
+        min-height: 50vh;
+    }
+    .job-btn {
+        margin: 0px 50px;
+    }
+    .newsletter-form {
+        width: 70%;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .newsletter-container p {
+        font-size: 16px;
+    }
+    .newsletter-container h3 {
+        font-size: 30px;
+    }
+    .blog-container {
+        display: inline-block;
+        padding: 30px;
+        text-align: center;
+    }
+    .testimonial-container {
+        padding: 0px;
+    }
+    .card-content {
+    }
+    .feature-job .feature-btn {
+        margin-top: 20px !important;
+        margin-left: 20px !important;
+        margin-right: 20px !important;
+    }
+    .hero-container .search-job,
+    .hero-container .find-talent {
+        margin: 20px;
+    }
+    .contact-info {
+    }
+    .logo {
+        text-align: center;
+    }
+    .top-social-icon,
+    .footer-social-icons {
+        display: inherit;
+    }
+    footer {
+        padding-bottom: 30px;
+    }
+    .copyright-content {
+        text-align: center;
+    }
+    .menu-nav div#navbarSupportedContent {
+        margin-bottom: 0px !important;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .feature-job .feature-btn {
+        margin: 15px 90px 0px !important;
+    }
+    .menu-nav div#navbarSupportedContent {
+        margin-bottom: -48px !important;
+    }
+    .login-help {
+        justify-content: end;
+    }
+}
+@media only screen and (min-width: 1200px) {
+}
